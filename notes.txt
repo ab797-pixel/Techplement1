@@ -52,9 +52,7 @@ error handling and exception handling
 Sent email notification
 API Authentication using sanctum
 __________________________________________________
-date: 10-08-2024                   day: saturday
-
-1 
+date: 10-08-2024                   day: saturda
 
 
 
