@@ -1,0 +1,58 @@
+date:06-08-2024
+
+create user with password:
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'lmP*0j9ce+SS5N!';
+CREATE USER '<user_name>'@'%' IDENTIFIED BY '<password>';
+->Create a Database
+CREATE DATABASE <dbname>;
+GRANT ALL PRIVILEGES ON <dbname> . * TO '<user_name>'@'%';
+
+steps: 
+ login root
+ create user with password
+ create database
+ grant privileges between database and user
+ _________________________________________________
+ 
+date: 07-08-2024                    day:wednesday
+ 
+ 1 do some crud
+ 2 styding email sending,Queues 
+ 3 styding basic laravel using tutorial points.
+ 
+ __________________________________________________
+ 
+ date: 08-08-2024                  day: thuseday
+ 
+ 1 updating the time sheet
+ 2 creating exception three different way
+       i) findOrFail() and ModelNotFountException
+       ii) create service and done same way as i
+       iii) creating Own Exception class 
+ 3 create API Excepetion steps
+       i) set = APP_DEBUG=false   
+__________________________________________________
+
+date : 09-08-2024                   day: friday
+
+1 veespaces.com our website
+2 app.veespaces our cms using word press
+3 React project
+    i) micro -> space.veespaces
+    ii) cards -> cards.veespaces
+    iii) virtual space -> space.veespaces/360
+    
+              what i know?    
+laravel Template engine
+laravel routing,migration,controller helper function
+Laravel Queues
+Eloquent ORM : one to one, one to many
+error handling and exception handling
+Sent email notification
+API Authentication using sanctum
+__________________________________________________
+date: 10-08-2024                   day: saturday
+
+
+
